@@ -75,14 +75,6 @@ class UserTableViewModel {
         }
     }
     
-    func getIdentifier(for index: Int) -> String {
-        if (index + 1) % 4 == 0 {
-            return invertedIdentifier
-        } else {
-            return standardIdentifier
-        }
-    }
-    
     func checkNoteExistence(forUserIn index: Int) -> Bool {
         let user = getUser(for: index)
         if let noteText = userNotesDictionary[user.login],

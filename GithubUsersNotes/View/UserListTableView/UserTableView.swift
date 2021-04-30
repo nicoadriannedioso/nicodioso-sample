@@ -54,8 +54,7 @@ class UserTableView: UITableView {
     }
     
     func setupTableView() {
-        register(UserRowStandard.self, forCellReuseIdentifier: viewModel.standardIdentifier)
-        register(UserRowInverted.self, forCellReuseIdentifier: viewModel.invertedIdentifier)
+        register(UserRowStandard.self, forCellReuseIdentifier: identifier)
         
         delegate = self
         dataSource = self
@@ -82,7 +81,7 @@ extension UserTableView: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if indexPath.row < viewModel.visibleUsers.count {
-            guard let cell = tableView.dequeueReusableCell(withIdentifier: viewModel.getIdentifier(for: indexPath.row)) as? UserRowProtocol
+            guard let cell = tableView.dequeueReusableCell(withIdentifier: identifier) as? UserRowProtocol
             else {
                 return UITableViewCell()
             }

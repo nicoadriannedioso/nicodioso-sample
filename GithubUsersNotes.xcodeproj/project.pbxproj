@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2E0B3D292630E794002E172B /* SiteAdminTagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0B3D282630E794002E172B /* SiteAdminTagView.swift */; };
 		2E0B3D2E2630EA15002E172B /* UserRowStandard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0B3D2D2630EA15002E172B /* UserRowStandard.swift */; };
-		2E0B3D332630EF7C002E172B /* UserRowInverted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0B3D322630EF7C002E172B /* UserRowInverted.swift */; };
 		2E0D14B92631173C00D10C79 /* UserNoteCoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA63348262FBDFD00120DBF /* UserNoteCoreDataManager.swift */; };
 		2E0D14C12631177C00D10C79 /* UserRowData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7EB31B262C9294001F90AB /* UserRowData.swift */; };
 		2E0D14C22631177C00D10C79 /* UserNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA63343262FBD7D00120DBF /* UserNote.swift */; };
@@ -125,7 +124,6 @@
 /* Begin PBXFileReference section */
 		2E0B3D282630E794002E172B /* SiteAdminTagView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteAdminTagView.swift; sourceTree = "<group>"; };
 		2E0B3D2D2630EA15002E172B /* UserRowStandard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRowStandard.swift; sourceTree = "<group>"; };
-		2E0B3D322630EF7C002E172B /* UserRowInverted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRowInverted.swift; sourceTree = "<group>"; };
 		2E0D14FC26311CD000D10C79 /* GithubUsersNotesUnitTest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GithubUsersNotesUnitTest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E0D14FE26311CD000D10C79 /* GithubUsersNotesUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubUsersNotesUnitTest.swift; sourceTree = "<group>"; };
 		2E0D150026311CD000D10C79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -226,7 +224,6 @@
 				2EDE53AB2630667400D71702 /* NoInternetRedBarView.swift */,
 				2E0B3D282630E794002E172B /* SiteAdminTagView.swift */,
 				2E0B3D2D2630EA15002E172B /* UserRowStandard.swift */,
-				2E0B3D322630EF7C002E172B /* UserRowInverted.swift */,
 				2EE9F15E262B650A00A3820D /* UserTableView.swift */,
 			);
 			path = UserListTableView;
@@ -636,7 +633,6 @@
 				2E950A60262E80C4003AA559 /* CachingImageView.swift in Sources */,
 				2E18D4F62638727B0046B417 /* BaseCoreDataManager.swift in Sources */,
 				2EDE53A72630631000D71702 /* UserRowProtocol.swift in Sources */,
-				2E0B3D332630EF7C002E172B /* UserRowInverted.swift in Sources */,
 				2E7EB31C262C9294001F90AB /* UserRowData.swift in Sources */,
 				2E7D832026394BF50089A135 /* ProfileInfoCoreDataCoder.swift in Sources */,
 				2E7D835826394C3F0089A135 /* CoreDataCoder.swift in Sources */,
