@@ -1,1 +1,22 @@
-# TawkToExam
+# GithubUsersNotes
+
+## Sample App of Nico Dioso
+
+* No 3rd party pod/library was used.
+* Inconsistent pattern for view controllers were intended to show capability to write in different code.
+
+### Sample app features:
+1. Live API requests from Github.com
+2. Persistent storing of loaded data (except images)
+ - App will retain previously fetched data so when the app opens with no connection, app will show previously fetched data
+3. Fetch pagination
+4. Note adding to each user.
+ - Works in offline mode, can still add notes to fetched users.
+ - Notes added is searchable
+6. Caching of Images
+7. Connection Reachability detections.
+ - If the app detects no connection, API requests are queued up. When the connection is restored, queued requests will automatically be executed.
+8. Asynchronous API request
+ - API requests does not happen simultaneously.
+9. Basic Unit tests for CoreData managers and models
+10. Works in Dark mode
