@@ -2,7 +2,7 @@
 
 ## Sample App of Nico Dioso
 
-* No 3rd party pod/library was used.
+* Only iOS native API/Library were used
 * Inconsistent pattern for view controllers were intended to show capability to write in different code.
 
 ### Sample app features:
