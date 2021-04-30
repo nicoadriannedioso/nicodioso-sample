@@ -3,7 +3,7 @@
 ## Sample App of Nico Dioso
 
 * Only iOS native API/Library were used
-* Inconsistent pattern for view controllers were intended to show capability to write in different code.
+* Inconsistent pattern for view controllers were intended to show capability to write in different approach.
 
 ### Sample app features:
 1. Live API requests from Github.com
