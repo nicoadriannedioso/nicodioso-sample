@@ -4,6 +4,7 @@
 
 * Only iOS native API/Library were used
 * Inconsistent pattern for view controllers were intended to show capability to write in different approach.
+* 
 
 ### Sample app features:
 1. Live API requests from Github.com
@@ -13,11 +14,12 @@
 4. Note adding to each user.
    - Works in offline mode, can still add notes to fetched users.
    - Notes added is searchable
-6. Caching of Images
-7. Connection Reachability detections.
+5. Caching of Images
+6. Connection Reachability detections.
    - If the app detects no connection, API requests are queued up. When the connection is restored, queued requests will automatically be executed.
-8. Asynchronous API request
+7. Asynchronous API request
    - API requests does not happen simultaneously.
+8. User filtering/searching
 9. Basic Unit tests for CoreData managers and models
 10. Works in Dark mode
 
