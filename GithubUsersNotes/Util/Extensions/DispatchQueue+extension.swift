@@ -1,6 +1,6 @@
 //
 //  DispatchQueue+extension.swift
-//  TawkToExam
+//  GithubUsersNotes
 //
 //  Created by Nico Adrianne Dioso on 4/19/21.
 //

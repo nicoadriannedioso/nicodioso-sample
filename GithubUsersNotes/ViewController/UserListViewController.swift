@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TawkToExam
+//  GithubUsersNotes
 //
 //  Created by Nico Adrianne Dioso on 4/18/21.
 //

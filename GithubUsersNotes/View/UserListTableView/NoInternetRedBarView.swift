@@ -1,6 +1,6 @@
 //
 //  NoInternetRedBarView.swift
-//  TawkToExam
+//  GithubUsersNotes
 //
 //  Created by Nico Adrianne Dioso on 4/21/21.
 //

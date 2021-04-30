@@ -731,14 +731,14 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUnitTest/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUnitTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUnitTest;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUnitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -752,14 +752,14 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUnitTest/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUnitTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUnitTest;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUnitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -857,14 +857,14 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamTests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamTests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -878,17 +878,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUITests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TawkToExam;
+				TEST_TARGET_NAME = GithubUsersNotes;
 			};
 			name = UnitTest;
 		};
@@ -898,14 +898,14 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUnitTest/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUnitTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUnitTest;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUnitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = UNIT_TEST;
 				SWIFT_VERSION = 5.0;
@@ -1078,14 +1078,14 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamTests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamTests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1101,14 +1101,14 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamTests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamTests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1122,17 +1122,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUITests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TawkToExam;
+				TEST_TARGET_NAME = GithubUsersNotes;
 			};
 			name = Debug;
 		};
@@ -1142,17 +1142,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZA9PXAU46Y;
-				INFOPLIST_FILE = TawkToExamUITests/Info.plist;
+				INFOPLIST_FILE = GithubUsersNotesUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.TawkToExamUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = dioso.nico.GithubUsersNotesUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TawkToExam;
+				TEST_TARGET_NAME = GithubUsersNotes;
 			};
 			name = Release;
 		};

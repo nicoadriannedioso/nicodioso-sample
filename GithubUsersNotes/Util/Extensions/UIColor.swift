@@ -1,6 +1,6 @@
 //
 //  UIColor.swift
-//  TawkToExam
+//  GithubUsersNotes
 //
 //  Created by Nico Adrianne Dioso on 4/22/21.
 //
