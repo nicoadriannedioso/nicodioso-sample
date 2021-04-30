@@ -21,8 +21,8 @@
 9. Basic Unit tests for CoreData managers and models
 10. Works in Dark mode
 
-![IMG_0878](https://user-images.githubusercontent.com/83448807/116681733-ee8dbe80-a9df-11eb-9d3a-747235b25277.png){:height="50%" width="50%"}
-![IMG_0880](https://user-images.githubusercontent.com/83448807/116681720-ea61a100-a9df-11eb-8189-9c140139ff85.png){:height="50%" width="50%"}
-![IMG_0879](https://user-images.githubusercontent.com/83448807/116681737-f0578200-a9df-11eb-8e0b-e19c93acf82c.png){:height="50%" width="50%"}
+![IMG_0878](https://user-images.githubusercontent.com/83448807/116681733-ee8dbe80-a9df-11eb-9d3a-747235b25277.png){:height="25%" width="25%"}
+![IMG_0880](https://user-images.githubusercontent.com/83448807/116681720-ea61a100-a9df-11eb-8189-9c140139ff85.png){:height="25%" width="25%"}
+![IMG_0879](https://user-images.githubusercontent.com/83448807/116681737-f0578200-a9df-11eb-8e0b-e19c93acf82c.png){:height="25%" width="25%"}
 
 
